@@ -35,3 +35,20 @@ irm https://get.activated.win | iex
 > </div>
 
 [Tutorial para tener spotify sin anuncios](https://www.youtube.com/watch?v=PO_fBc38biI)
+
+---
+
+## Christitus: aplicativo para elimianar archivos de Windows
+> [!IMPORTANT]
+> Abrir la terminal de  ```Powershell``` y ejecutar el siguiente cómando
+> ```bash
+> iwr -useb https://christitus.com/win | iex
+> ```
+
+>[!NOTE]
+>Sale la siguiente terminal que es la terminal para poder eliminar archivos basura de windows, se va al apartado de ```TWEAKS```  y le das en ```Standard``` y se run para eliminar archivos adicionales
+><div align=center>
+><img width="1027" height="595" alt="image" src="https://github.com/user-attachments/assets/939cae6d-f8b5-4f5c-a288-77d198a503ed" />
+> </div>
+
+[Página con documentación](https://christitus.com/windows-tool/) 
